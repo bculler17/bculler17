@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🚀 About Me
 
 <!--
 **bculler17/bculler17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Beth! I have been an Oracle Database Administrator since August 2020 and I recently graduated with a BS in Computer Science in Sept 2021 from Western Governors University. My passions include coding, astronomy, and the outdoors! 
+
+
+ 🔭 I’m currently working on increasing my knowledge and skills in Python, after which I would then like to practice more with C++ and Java.
+ 
+ 📫 How to reach me: bethculler_dev17@gmail.com
