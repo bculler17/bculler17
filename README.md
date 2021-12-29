@@ -20,4 +20,4 @@ Hi, I'm Beth! I have been an Oracle Database Administrator since August 2020 and
 
  🔭 I’m currently working on expanding my knowledge and skills in Python, after which I would then like to practice more C++ and Java.
  
- 📫 How to reach me: bethculler_dev17@gmail.com
+ 📫 How to reach me: bethculler.dev17@gmail.com
