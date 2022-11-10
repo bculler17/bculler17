@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Hi, I'm Beth! I have been an Oracle Database Administrator since August 2020 and I recently graduated with a BS in Computer Science in Sept 2021 from Western Governors University. 
 
- 🔭 I’m currently working on expanding my knowledge and skills in Python, after which I would then like to practice more C++ and Java.
+ 🔭 I’m currently working on expanding my knowledge and skills in Python and Java, after which I would then like to practice more C++.
  
  📫 How to reach me: bethculler.dev17@gmail.com
